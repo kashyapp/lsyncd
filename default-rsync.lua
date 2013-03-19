@@ -76,6 +76,7 @@ rsync.checkgauge = {
 		rsync_path        =  true,
 		sparse            =  true,
 		temp_dir          =  true,
+		timeout           =  true,
         times             =  true,
 		update            =  true,
 		verbose           =  true,
